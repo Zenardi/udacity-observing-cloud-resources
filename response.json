@@ -1,0 +1,15 @@
+{
+  "dataset": {
+    "created": "Mon, 04 Jul 2022 11:26:10 GMT", 
+    "email": "du.zenardi2@gmail.com", 
+    "id": 3, 
+    "role": 0, 
+    "token": "RDVBPXELCFR6F1XBBKUEL7NQXKCWVB7WNCB5UHUQITLHWLR7ZS", 
+    "username": "zenardi2"
+  }, 
+  "status": {
+    "message": "101: Created.", 
+    "records": 1, 
+    "success": true
+  }
+}
